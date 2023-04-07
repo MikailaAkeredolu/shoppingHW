@@ -4,6 +4,8 @@
 
 Inside Main do the following:
 
+Note: Manager's get an extra 5% on top of the Employee discounts
+
 - Create a product (shirt)
 - Create a product (pants)
 - Create a product (shoes)
